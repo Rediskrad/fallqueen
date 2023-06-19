@@ -52,7 +52,7 @@ var cutscenes = {
     {
       "type": "dialog",
       "endTrigger": "user",
-      "text": "Jumpking:\nYes its a tragedy. However before she diead,\ni heard that she has a friend locked up under the tower.",
+      "text": "Jumpking:\nYes its a tragedy. However before she died,\ni heard that she has a friend locked up under the tower.",
       "target": "player",
       "x1": 720,
       "y1": 240
